@@ -1,3 +1,8 @@
 Git is a version control system
 Git is free software.
+<<<<<<< Updated upstream
 hahahaha
+=======
+
+数据大屏
+>>>>>>> Stashed changes
